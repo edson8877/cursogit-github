@@ -1,0 +1,13 @@
+# Ignore um único arquivo
+
+style.css
+
+# Ignore arquivos específicos 
+
+*.js
+
+# Ignorando pastar/repositórios
+
+vendor/
+node_modules
+teste/*.txt
